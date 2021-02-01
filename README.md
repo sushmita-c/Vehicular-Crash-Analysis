@@ -12,7 +12,7 @@ conda install -c conda-forge jupyterlab
 ```
 [Click here](https://test-jupyter.readthedocs.io/en/latest/install.html) to get more help for installation or other installation alternatives.
 ### Run JupyterLab
-Once installed, navigate to directory where [source code](Vehicular-Crash-Analysis/CS6220_Project.ipynb) is located and launch with the following command:  
+Once installed, open the Anaconda terminal and navigate to directory where [source code](Vehicular-Crash-Analysis/CS6220_Project.ipynb) is located. Launch by typing the following command into your Anaconda terminal:  
 ```diff
 jupyter notebook CS6220_Project.ipynb
 ```
