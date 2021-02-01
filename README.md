@@ -5,14 +5,14 @@ This project is an analysis of the correlation between vehicular accidents in th
 You may use [Google Colab](https://colab.research.google.com/) to run source file on cloud or install Jupyter Notebook to run file locally. 
 *Note:* You must install Anaconda to run the following commands. Please refer to [Anaconda Documentation](https://www.anaconda.com/products/individual).
 
-### Install with conda:
-If you use conda, you can install Jupyter Notebook with the following command:  
+### Install with Conda:
+If you use Conda, open the Anaconda terminal and install Jupyter Notebook by typing the following command:  
 ```diff
 conda install -c conda-forge jupyterlab
 ```
 [Click here](https://test-jupyter.readthedocs.io/en/latest/install.html) to get more help for installation or other installation alternatives.
 ### Run JupyterLab
-Once installed, open the Anaconda terminal and navigate to the directory where the [source code](Vehicular-Crash-Analysis/CS6220_Project.ipynb) is located. Launch the file by typing the following command into your Anaconda terminal:  
+Once installed, navigate to the directory where the [source code](Vehicular-Crash-Analysis/CS6220_Project.ipynb) is located. Launch the file by typing the following command into your Anaconda terminal:  
 ```diff
 jupyter notebook CS6220_Project.ipynb
 ```
